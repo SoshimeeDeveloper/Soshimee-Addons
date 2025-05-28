@@ -5,10 +5,10 @@
 
 ## 📥 Download
 **Latest Download**  
-📦 [Direct Download (soshimeeaddons.zip)](https://github.com/SoshimeeDeveloper/Soshimee-Addons/releases/download/soshimee323/soshimeeaddons.zip)
+📦 [Direct Download (soshimeeaddons.zip)](https://github.com/SoshimeeDeveloper/Soshimee-Addons/releases/tag/sasd)
 
 **Or from Releases**  
-🔗 [Visit Releases Page](https://github.com/SoshimeeDeveloper/Soshimee-Addons/releases)
+🔗 [Visit Releases Page](https://github.com/SoshimeeDeveloper/Soshimee-Addons/releases/tag/sasd)
 
 ---
 
@@ -35,7 +35,7 @@ Soshimee Addons is a powerful module for **ChatTriggers on Minecraft 1.8.9**, de
 
 1. **Install [ChatTriggers](https://chattriggers.com/) for Minecraft 1.8.9**
 2. **Download the latest `soshimeeaddons.zip`**  
-   👉 [Click here to download](https://github.com/SoshimeeDeveloper/Soshimee-Addons/releases/download/soshimee323/soshimeeaddons.zip)
+   👉 [Click here to download](https://github.com/SoshimeeDeveloper/Soshimee-Addons/releases/tag/sasd)
 3. **Extract the `.zip` file** into your ChatTriggers `modules` folder:  
    `/.minecraft/config/ChatTriggers/modules/`
 4. Launch Minecraft and run `/ct reload` in chat.
